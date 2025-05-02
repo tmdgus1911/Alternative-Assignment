@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\assets\\script\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|c:\\code\\unity\\alternative-assignment\\chess\\assets\\script\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\assets\\script\\objectdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\objectdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\assets\\script\\constvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\constvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\Assets\\Script\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameController.cs",
+              "ToolTip": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\Assets\\Script\\GameController.cs",
+              "RelativeToolTip": "Assets\\Script\\GameController.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAD4vwABAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:26:39.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataTypes.cs",
+              "DocumentMoniker": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\Assets\\Script\\DataTypes.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DataTypes.cs",
+              "ToolTip": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\Assets\\Script\\DataTypes.cs",
+              "RelativeToolTip": "Assets\\Script\\DataTypes.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwEwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:27:32.495Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectDetails.cs",
+              "DocumentMoniker": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\Assets\\Script\\ObjectDetails.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ObjectDetails.cs",
+              "ToolTip": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\Assets\\Script\\ObjectDetails.cs",
+              "RelativeToolTip": "Assets\\Script\\ObjectDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:35:12.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConstVar.cs",
+              "DocumentMoniker": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\Assets\\Script\\ConstVar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ConstVar.cs",
+              "ToolTip": "C:\\Code\\UNITY\\Alternative-Assignment\\Chess\\Assets\\Script\\ConstVar.cs",
+              "RelativeToolTip": "Assets\\Script\\ConstVar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:27:24.354Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
